@@ -1,4 +1,5 @@
 # AI-Driven-Personalized-Risk-toTimeline-Cervical-Cancer-Prediction
+This project was developed by *Valeria Mudzindiko* and *Lusubilo Nyondo*.
 ## Project Description
 In this group project, we focused on cervical cancer prediction modelling by establishing the foundation for a personalized Risk-to-Timeline framework. The main objective was to determine whether population-level risk factors and clinical test results can be applied to generate more dynamic predictions of Cervical Intraepithelial Neoplasia (CIN) and support individualized follow-up recommendations.
 
