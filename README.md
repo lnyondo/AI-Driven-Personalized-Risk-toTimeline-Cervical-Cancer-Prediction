@@ -6,16 +6,20 @@ Using the publicly available UCI Cervical Cancer Risk Factors dataset which cont
 
 Overall, the project identifies the most reliable model for predicting CIN risk and lays the methodological groundwork for future development of personalized, time-based R-to-T models that support precision prevention and more equitable cervical cancer care.
 ##  Project Overview
-This project builds a foundational machine-learning pipeline for predicting Cervical Intraepithelial Neoplasia (CIN) using the UCI Cervical Cancer Risk Factors dataset. The work establishes the first step toward a more advanced Risk-to-Timeline (R-to-T) model that will ultimately estimate individualized disease progression patterns. The full analysis was conducted in a Jupyter Notebook included in this repository.
+Using the UCI Cervical Cancer Risk Factors dataset, The work establishes the first step toward a more advanced Risk-to-Timeline (R-to-T) model that will ultimately estimate individualized disease progression patterns. The full analysis was conducted in a Jupyter Notebook included in this repository.
 
 The project focuses on:
 
 -- Cleaning and standardizing a noisy, highly imbalanced dataset
-
 -- Evaluating a diverse set of nine machine-learning algorithms
-
 -- Using cross-validation for reliable performance estimates
-
 -- Identifying the most trustworthy model for CIN prediction
-
 -- Applying SHAP to improve interpretability and clinical transparency
+
+## Dataset Summary
+-- Dataset: UCI Cervical Cancer Risk Factors
+-- Total records: 858
+-- Features: 36 demographic, behavioral, STI-related, and diagnostic variables
+-- Target variable: Dx:CIN
+-- Positive cases: Only 9 (≈1%)
+
